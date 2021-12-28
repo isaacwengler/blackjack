@@ -4,6 +4,6 @@ A free-to-play BlackJack style game made using JavaScipt. During developement I 
 This was my first sizeable project, and it was super interesting to make!
 
 ## Try it out
-Visit https://www.isaacwengler.com/blackjack/blackJack.html
+Visit https://isaacwengler.github.io/blackjack/
 
 To play, follow the on-screen prompt using keyboard WASD pad. 
